@@ -23,7 +23,6 @@ https://climathon.climate-kic.org/en/
 
 https://hackathons.copernicus.eu/
 
-![EventBanner](https://github.com/WEkEO/Climathon/blob/master/01-images/CHC_2019_Banner.png)
 
  # Table of contents
 1. [Challenges](#challenges)
@@ -76,6 +75,12 @@ https://www.youtube.com/watch?v=HgfafyvkQLU&t=624s
 
 Some examples of the different types of datasets available at WEkEO are listed below. This is a very small sample of the type of data that you can find on WEkEO. You can browse the WEkEO datasets catalogue and download data at https://www.wekeo.eu/dataset-navigator/start
 
+
+**Example**
+
+|  Product | Source | Used for   | Geo Coverage  | Time Coverage   |  Resolution |  Format | HTTP Access  |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+|PMAP Aerosol Optical Depth - particles in the atmosphere | Metop | Air pollution (basis for PM10, PM2.5 etc) | Global | April 2016 - onwards.  Aim 2017 onwards. (14 per day). January 2017 until December 2017 | 5x40km and 10x40km | NetCDF | [GOME-PMAP](http://atmoshack.obs.eu-de.otc.t-systems.com/?prefix=01-GOME_PMAP)|
 
 **Land**
 
