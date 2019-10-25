@@ -90,15 +90,14 @@ Some examples of the different types of datasets available at WEkEO are listed b
 
 
 
-
-
-|  Dataset Name | Dataset ID | Geo Coverage  | Time Coverage   |  Resolution |  Format | 
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|Sentinel-1 Level 1 Ground Range Detected (GRD) | EO:ESA:DAT:SENTINEL-1:L1_GRD | Global | 03/04/2014 to now | No info | .tiff compressed in .zip | 
-|SENTINEL-2 Level-1C | EO:ESA:DAT:SENTINEL-2:MSI1C | Global | 23/06/2015 to now | No info | No info | 
-
-
 **Climate**
+
+|  Dataset Name | Dataset ID | Geo Coverage   | Time Coverage  | Resolution   |  Format |  
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+|ERA5 hourly data on single levels from 1979 to present | EO:ECMWF:DAT:ERA5_HOURLY_DATA_ON_SINGLE_LEVELS_1979_PRESENT | Global | 1979-2019 | No info | No info | GRIB, NetCDF (experimental) | 
+
+
+
 
 |  Dataset Name | Dataset ID | Geo Coverage  | Time Coverage   |  Resolution |  Format | 
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
