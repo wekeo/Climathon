@@ -1,15 +1,17 @@
 # Copernicus Hackathon and Climathon 2019
 
+![EventBanner](https://github.com/WEkEO/Climathon/blob/master/01-images/CHC_2019_Banner.png)
+
 Fight Climate Change with Space Data!
 
-Organized Aerospace Valley, EIT Climate-KIC and EPITECH. Supported by WEkEO.
-On the 25th-26th October 2019, this event will take place in two different locations in France: Toulouse and Bordeaux.
+The Copernicus Hackathon & Climathon is organized by Aerospace Valley, EIT Climate-KIC and EPITECH. On the 25th-26th October 2019, this event will take place in two different locations in France: Toulouse and Bordeaux.
 
 This Github repository contains resources for Copernicus Hackathon and Climathon 2019 and it can also be used to share code. 
 
 - The Climathon is focused on climate change and is part of a global event that takes place in 120 cities worldwide.
 - The Copernicus Hackathon promotes the use of satellite data to develop new applications and services related to Earth Observation.
 
+![EventBanner](https://github.com/WEkEO/Climathon/blob/master/01-images/CHC_2019_Visual.png)
 
 More info about the event at:
 
@@ -61,6 +63,7 @@ Documentation and guides on how to access the data and the virtual machines are 
 https://www.wekeo.eu/documentation/getting_started
 
 Youtube Channel of Aerospace Valley:
+
 • WEkEO Video Tutorial
 https://www.youtube.com/watch?v=gaptIieHKy8
 
