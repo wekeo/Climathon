@@ -114,6 +114,11 @@ Some examples of the different types of datasets available at WEkEO are listed b
 
 **Marine**
 
+|  Dataset Name | Dataset ID | Geo Coverage   | Time Coverage  | Resolution   |  Format |  
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+|Mediterranean Sea - High Resolution and Ultra High Resolution L3S Sea Surface Temperature |EO:MO:DAT:SST_MED_SST_L3S_NRT_OBSERVATIONS_010_012 |Latitude 30.25 to 46 degrees, Longitude -18.12 to 36.25 degrees | 01/01/2016 to now | No info | NetCDF | 
+
+
 |  Dataset Name | Dataset ID | Geo Coverage  | Time Coverage   |  Resolution |  Format | 
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 |Mediterranean Sea - High Resolution and Ultra High Resolution L3S Sea Surface Temperature | EO:MO:DAT:SST_MED_SST_L3S_NRT_OBSERVATIONS_010_012 | Latitude 30.25 to 46 degrees, Longitude -18.12 to 36.25 degrees | 01/01/2016 to now | No info | NetCDF | 
