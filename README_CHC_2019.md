@@ -114,6 +114,10 @@ Some examples of the different types of datasets available at WEkEO are listed b
 
 **CAMS Data Access** 
 
+The data above can be accessed from WEkEO. In case you would explore further data from CAMS (Copernicus Atmospheric Monitoring Service) it uses the following API. 
+
+Catalogue: https://apps.ecmwf.int/datasets/
+
 Access CAMS data via the ECMWF MARS archive - Web-API
 
 Retrieve ECMWF key
