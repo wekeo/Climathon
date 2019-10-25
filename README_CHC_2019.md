@@ -12,9 +12,13 @@ This Github repository contains resources for Copernicus Hackathon and Climathon
 
 
 More info about the event at:
+
 http://booster-nova.com/copernicushackathonclimathon/
+
 https://www.wekeo.eu/news
+
 https://climathon.climate-kic.org/en/
+
 https://hackathons.copernicus.eu/
 
 ![EventBanner](https://github.com/WEkEO/Climathon/blob/master/01-images/CHC_2019_Banner.png)
