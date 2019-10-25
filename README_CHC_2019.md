@@ -97,7 +97,7 @@ Some examples of the different types of datasets available at WEkEO are listed b
 |ERA5 hourly data on single levels from 1979 to present | EO:ECMWF:DAT:ERA5_HOURLY_DATA_ON_SINGLE_LEVELS_1979_PRESENT | Global | 1979-2019 | No info | No info | GRIB, NetCDF (experimental) | 
 
 
-
+**other
 
 |  Dataset Name | Dataset ID | Geo Coverage  | Time Coverage   |  Resolution |  Format | 
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
