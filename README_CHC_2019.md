@@ -17,7 +17,7 @@ https://www.wekeo.eu/news
 https://climathon.climate-kic.org/en/
 https://hackathons.copernicus.eu/
 
-![EventBanner](https://github.com/WEkEO/AtmosHack2018/blob/master/01-images/Atmoshack2018-banner.jpg)
+![EventBanner](https://github.com/WEkEO/Climathon/blob/master/01-images/CHC_2019_Banner.png)
 
  # Table of contents
 1. [Challenges](#challenges)
