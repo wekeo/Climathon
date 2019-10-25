@@ -76,11 +76,6 @@ https://www.youtube.com/watch?v=HgfafyvkQLU&t=624s
 Some examples of the different types of datasets available at WEkEO are listed below. This is a very small sample of the type of data that you can find on WEkEO. You can browse the WEkEO datasets catalogue and download data at https://www.wekeo.eu/dataset-navigator/start
 
 
-**Example**
-
-|  Product | Source | Used for   | Geo Coverage  | Time Coverage   |  Resolution |  Format | HTTP Access  |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|PMAP Aerosol Optical Depth - particles in the atmosphere | Metop | Air pollution (basis for PM10, PM2.5 etc) | Global | April 2016 - onwards.  Aim 2017 onwards. (14 per day). January 2017 until December 2017 | 5x40km and 10x40km | NetCDF | [GOME-PMAP](http://atmoshack.obs.eu-de.otc.t-systems.com/?prefix=01-GOME_PMAP)|
 
 **Land**
 
@@ -96,12 +91,6 @@ Some examples of the different types of datasets available at WEkEO are listed b
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 |ERA5 hourly data on single levels from 1979 to present | EO:ECMWF:DAT:ERA5_HOURLY_DATA_ON_SINGLE_LEVELS_1979_PRESENT | Global | 1979-2019 | No info | No info | GRIB, NetCDF (experimental) | 
 
-
-**other
-
-|  Dataset Name | Dataset ID | Geo Coverage  | Time Coverage   |  Resolution |  Format | 
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|ERA5 hourly data on single levels from 1979 to present | EO:ECMWF:DAT:ERA5_HOURLY_DATA_ON_SINGLE_LEVELS_1979_PRESENT | Global | 1979-2019 | No info | GRIB, NetCDF (experimental) | 
 
 
 **Air Quality**
@@ -119,9 +108,6 @@ Some examples of the different types of datasets available at WEkEO are listed b
 |Mediterranean Sea - High Resolution and Ultra High Resolution L3S Sea Surface Temperature |EO:MO:DAT:SST_MED_SST_L3S_NRT_OBSERVATIONS_010_012 |Latitude 30.25 to 46 degrees, Longitude -18.12 to 36.25 degrees | 01/01/2016 to now | No info | NetCDF | 
 
 
-|  Dataset Name | Dataset ID | Geo Coverage  | Time Coverage   |  Resolution |  Format | 
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|Mediterranean Sea - High Resolution and Ultra High Resolution L3S Sea Surface Temperature | EO:MO:DAT:SST_MED_SST_L3S_NRT_OBSERVATIONS_010_012 | Latitude 30.25 to 46 degrees, Longitude -18.12 to 36.25 degrees | 01/01/2016 to now | No info | NetCDF | 
 
 
 ### Data Access <a name="data"></a>
@@ -213,8 +199,6 @@ In case you want to find more information about marine products:
 • Self-register at http://marine.copernicus.eu/services-portfolio/register-now/
 
 • Login at http://marine.copernicus.eu/services-portfolio/access-to-products/?option=com_csw&view=account
-
-
 
 
 
