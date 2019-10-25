@@ -106,10 +106,10 @@ Some examples of the different types of datasets available at WEkEO are listed b
 
 **Air Quality**
 
-|  Dataset Name | Dataset ID | Geo Coverage  | Time Coverage   |  Resolution |  Format | 
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|CAMS Solar Radiation Time Series | EO:ECMWF:DAT:CAMS_SOLAR_RADIATION_TIMESERIES | Global | 01/02/2004 to now | CSV | 
- 
+|  Dataset Name | Dataset ID | Geo Coverage   | Time Coverage  | Resolution   |  Format |  
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+|CAMS Solar Radiation Time Series | EO:ECMWF:DAT:CAMS_SOLAR_RADIATION_TIMESERIES | Global | 01/02/2004 to now | CSV | No info | No info | 
+
 
 
 **Marine**
