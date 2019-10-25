@@ -84,6 +84,14 @@ Some examples of the different types of datasets available at WEkEO are listed b
 
 **Land**
 
+|  Dataset Name | Dataset ID | Geo Coverage   | Time Coverage  | Resolution   |  Format |  
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+|Sentinel-1 Level 1 Ground Range Detected (GRD) | EO:ESA:DAT:SENTINEL-1:L1_GRD | Global | Global | 03/04/2014 to now | No info | .tiff compressed in .zip | 
+
+
+
+
+
 |  Dataset Name | Dataset ID | Geo Coverage  | Time Coverage   |  Resolution |  Format | 
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 |Sentinel-1 Level 1 Ground Range Detected (GRD) | EO:ESA:DAT:SENTINEL-1:L1_GRD | Global | 03/04/2014 to now | No info | .tiff compressed in .zip | 
